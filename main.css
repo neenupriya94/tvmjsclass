@@ -1,0 +1,30 @@
+body{
+    background:azure;
+  }
+  
+  div{
+    background: white;
+    height: 50px;
+    width: 98%;
+    border: 1px solid grey;
+    text-align: center;
+    vertical-align:middle;
+  }
+  #first{
+    background : orange;
+    border-bottom:0px;
+  }
+  
+  div img {
+    height: 48px;
+    width:48px;
+    margin-top: 1px;
+  }
+  #sec{
+    
+    
+  }
+  .last{
+    border-top:0px;
+    background: green;
+  }  
